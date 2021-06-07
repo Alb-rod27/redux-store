@@ -1,0 +1,29 @@
+{
+  "name": "redux-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alb-rod27/redux-store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alb-rod27/redux-store/issues"
+  },
+  "homepage": "https://github.com/Alb-rod27/redux-store#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.5.1",
+    "apollo-server-express": "^2.25.0",
+    "concurrently": "^6.2.0",
+    "if-env": "^1.0.4",
+    "react-redux": "^7.2.4",
+    "redux": "^4.1.0",
+    "stripe": "^8.153.0"
+  }
+}
